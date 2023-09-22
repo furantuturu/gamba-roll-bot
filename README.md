@@ -1,5 +1,3 @@
-**A project that you'll make when your bored**
-
 **Commmands:**
 
 `?!roll` - for private message roll
