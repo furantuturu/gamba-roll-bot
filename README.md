@@ -1,3 +1,6 @@
+# Mini Project Series 8a
+## Gamba Roll Discord Bot
+
 **Commmands:**
 
 `?!roll` - for private message roll *(must be done on channel)*
