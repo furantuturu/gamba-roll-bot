@@ -1,4 +1,4 @@
-# Mini Project Series 8a
+# Mini Project Series 8
 ## Gamba Roll Discord Bot
 
 **Commmands:**
